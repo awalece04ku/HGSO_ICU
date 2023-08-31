@@ -16,7 +16,10 @@ This repository contains code for the paper "HGSOXGB: Hunger Games Search Optimi
 # Contact 
 For further inquiry or collaboration, researchers are welcome to contact us. 
 
-Dr Md Abdul Awal 
+Dr Md Abdul Awal
+
 md.abdul.awal.uq@gmail.com
+
 The University of Queensland 
+
 Australia
