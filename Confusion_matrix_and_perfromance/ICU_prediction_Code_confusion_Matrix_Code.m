@@ -2,7 +2,7 @@
 clc
 clear all
 close all
-workingFolder = 'C:\Users\uqmawal\OneDrive\OneDrive - The University of Queensland\New_Analysis\NPY files\Matlab Code\';
+workingFolder = 'C:\Users\uqmawal\Dependencies\';
 cd(workingFolder)
 
 test_label = readNPY('y_test.npy');
