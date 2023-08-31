@@ -13,4 +13,10 @@ This repository contains code for the paper "HGSOXGB: Hunger Games Search Optimi
 7. [Metropolish_HGSO.py](https://github.com/awalece04ku/HGSO_ICU/blob/main/Metropolish_HGSO.py) Our proposed metropolis-hasting HGSO algorithm.
 8. [HGS.py](https://github.com/awalece04ku/HGSO_ICU/blob/main/HGS.py): Our python implementation of the original HGSO algorithm. 
 
+# Contact 
+For further inquiry or collaboration, researchers are welcome to contact us. 
 
+Dr Md Abdul Awal 
+md.abdul.awal.uq@gmail.com
+The University of Queensland 
+Australia
