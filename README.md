@@ -7,7 +7,7 @@ This repository contains code for the paper "HGSOXGB: Hunger Games Search Optimi
 1. [Models](https://github.com/awalece04ku/HGSO_ICU/tree/main/Models): It contains all the models in .zip. Unzip it to get the .joblib model files required during model performance evaluation and classification.
 2. [ICU_Prediction](https://github.com/awalece04ku/HGSO_ICU/tree/main/ICU_Prediction): This contains all the ipynb files for classification and performance evaluation.
 3. [Data](https://github.com/awalece04ku/HGSO_ICU/tree/main/Data): Contains train and test data.
-4. [Confusion_matrix_and_perfromance](https://github.com/awalece04ku/HGSO_ICU/tree/main/Confusion_matrix_and_perfromance): Contains .npy files and Matlab codes to generate confusion matrics and performance evaluation metrics. Please add Dependencies to your Matlab path. We have used Matlab to generate beautiful confusing Matix figures.  
+4. [Confusion_matrix_and_perfromance](https://github.com/awalece04ku/HGSO_ICU/tree/main/Confusion_matrix_and_perfromance): Contains .npy files and Matlab codes to generate confusion matrics and performance evaluation metrics. Please add Dependencies to your Matlab path. We have used Matlab to generate beautiful confusing Matrix figures.  
 5. [CEC_Benchmark_Exp](https://github.com/awalece04ku/HGSO_ICU/tree/main/CEC_Benchmark_Exp): This folder contains code to evaluate CEC function and statistical significance test.
 6. [HGSOXGB_ICU.py](https://github.com/awalece04ku/HGSO_ICU/blob/main/HGSOXGB_ICU.py): This file is used to optimize XGB using proposed metropolis-hasting HGSO algorithm.
 7. [Metropolish_HGSO.py](https://github.com/awalece04ku/HGSO_ICU/blob/main/Metropolish_HGSO.py) Our proposed metropolis-hasting HGSO algorithm.
